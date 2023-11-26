@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋
+
+Once upon a time I would have actually put code here. But my technical abilities faded, and in the last eight years I've spent my time in Product Management and Product Marketing.
+
+There's a longer story [on my personal website](https://probably.co.uk/about).
 
 <!--
 **phips/phips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
