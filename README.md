@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Once upon a time I would have actually put code here. But my technical abilities faded, and in the last nine years I've spent my time in Product Management and Product Marketing.
+Once upon a time I would have actually put code here. But my technical abilities faded, and in the last ten years I've spent my time in Product Management and Product Marketing.
 
 There's a longer story [on my personal website](https://probably.co.uk/about).
 
